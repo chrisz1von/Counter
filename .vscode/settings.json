@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\chris\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.testing.pytestArgs": [
+        "KivyMD"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./KivyMD",
+        "-p",
+        "*test.py"
+    ]
+}
